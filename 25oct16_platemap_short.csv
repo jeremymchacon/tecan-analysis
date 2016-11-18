@@ -1,0 +1,9 @@
+,1,2,3,4,5,6,7,8,9,10,11,12
+A,,,,,,,,,,,,
+B,,E_a,E_a,E_a,E_a,ESM_a,E_s,E_s,E_s,E_s,ESM_s,
+C,,S_a,S_a,S_a,S_a,ESM_a,S_s,S_s,S_s,S_s,ESM_s,
+D,,M_a,M_a,M_a,M_a,ESM_a,M_s,M_s,M_s,M_s,ESM_s,
+E,,ES_a,ES_a,ES_a,ES_a,ESM_a,ES_s,ES_s,ES_s,ES_s,ESM_s,
+F,,EM_a,EM_a,EM_a,EM_a,a,EM_s,EM_s,EM_s,EM_s,s,
+G,,MS_a,MS_a,MS_a,MS_a,a,MS_s,MS_s,MS_s,MS_s,s,
+H,,,,,,,,,,,,
